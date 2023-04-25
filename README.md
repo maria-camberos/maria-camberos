@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Camberos</h1>
-<h3 align="center">I am passionate about data and studying a Master's in Big Data and Data Science.</h3>
+<h3 align="center">I am passionate about data</h3>
 
 - 🔭 I’m currently studying **Master's in Big Data and Data Science.**
 
